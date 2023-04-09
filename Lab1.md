@@ -40,13 +40,10 @@ We will check off each of these objective as we go!
 3. Open a new file giving it a name that you like, followed by .java at the end. Then go into the file you just created.
 
     <img src="vscopenfile.png" width="500" height="300"/>
+    
+    <img src="vscnewfile.png" width="650" height="250"/>
 
 4. On the left panel, click on the first logo on the right of the file's name you just created to create a new file. You can name it with the name you like but followed with .txt at the end as it should be a text file. Then save it to your computer. 
-
-    <img src="vscnewfile.png" width="650" height="250"/>
-    
-    
-    
     
     <img src="vscmaketxt.png" width="400" height="450"/>
 
