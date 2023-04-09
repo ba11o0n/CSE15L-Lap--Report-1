@@ -131,7 +131,8 @@ Let's learn how to use Github so your own projects can be published, reflecting 
 
 7. Your screen will load into a new display, so give it a few minutes or refresh your page. A message in a box will pop up saying "Your site is live at <url>". Click on the link and you would see the result of your work in the file in a new page. 
 
-IMPORTANT: If the page displays something similar to "404 File not found", do not panic. Go back and copy the link that wad given to you and paste it into the search engine. Before you press enter, add in the name of your main file that you want to display followed by `.html` (eg. your main file that you want others to see is titled apple.md in your repository, so the url will be https://
+*IMPORTANT*: If the page displays something similar to "404 File not found", do not panic. Go back and copy the link that was given to you and paste it into the search engine. Before you press enter, add in the name of your main file that you want to display followed by `.html` (eg. your main file that you want others to see is titled apple.md in your repository, so the url will be something like https://yourName.github.io/CSE15LReport1/
+mainFileName.html
 
 Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
