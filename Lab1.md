@@ -2,9 +2,13 @@
 Before learning the different tools and techniques as a programmer for this course, let's learn how to set up your accounts and installing the needed source-code editor. 
 
 By the end of this tutorial, you should be able to: 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [ ] Download and practice using the source-code editor VSCode 
+- [ ] Remotely connecting to the server 
+- [ ] Try different commands and learn what they do 
+- [ ] Create a Github account and practice creating repositories 
+- [ ] Learn about the help of markdowns 
+
+We will check off each of these objective as we go! 
      
 
 ## **Step 1: Creating Your CSE15L Account**
@@ -38,6 +42,9 @@ By the end of this tutorial, you should be able to:
 6. Write some text in the file (eg. Hello, world!)
     ![Image](...)
 
+Good job, we were able to: 
+- [x] Download and practice using the source-code editor VSCode 
+
 
 ## **Step 3: Remotely Connecting using VSCode**
 1. If you are using Mac, git is already installed in your computer. However, you will be required to [install](https://gitforwindows.org) git for windows. 
@@ -57,7 +64,11 @@ By the end of this tutorial, you should be able to:
     ![Image](...) 
 
 6. You have successfully connected your terminal to a computer in the computer basement and any commands you run can be run on that computer. 
-     
+
+Good job, we were able to: 
+- [x] Download and practice using the source-code editor VSCode 
+- [x] Remotely connecting to the server 
+
 
 ## **Step 4: Running Commands**
 There are several different commands that you can try to run in the terminal either on your computer or using the remote computer with ssh. 
@@ -76,6 +87,11 @@ There are several different commands that you can try to run in the terminal eit
 Try different combination and try to see the different outputs. You can try to see other commands if interested through other documentations online.  
 
 Before you try these commands, you can log out of the remote server in the terminal by doing Ctrl-D OR run exit as the command OR kill the terminal and open a new one in VSCode. 
+
+Good job, we were able to: 
+- [x] Download and practice using the source-code editor VSCode 
+- [x] Remotely connecting to the server 
+- [x] Try different commands and learn what they do 
 
 
 ## **Step 5: Github, Github pages, and git** 
@@ -98,5 +114,20 @@ Let's learn how to use Github so your own projects can be published, reflecting 
 
 7. Your screen will load into a new display, so give it a few minutes or refresh your page. A message in a box will pop up saying "Your site is live at <url>". Click on the link and you would see the result of your work in the file in a new page. 
 
+Good job, we were able to: 
+- [x] Download and practice using the source-code editor VSCode 
+- [x] Remotely connecting to the server 
+- [x] Try different commands and learn what they do 
+- [x] Create a Github account and practice creating repositories 
+
+
 ### Make Your Texts Fancier, More Designs 
 The `.md` that you have written at the end of your index file stands for "Markdown" that allows you to add formats to text and writings. There are [common markdown options](https://commonmark.org/help/). Use it to style your texts. 
+
+Good job, we were able to: 
+- [x] Download and practice using the source-code editor VSCode 
+- [x] Remotely connecting to the server 
+- [x] Try different commands and learn what they do 
+- [x] Try different commands and learn what they do 
+- [x] Create a Github account and practice creating repositories 
+- [x] Learn about the help of markdowns
