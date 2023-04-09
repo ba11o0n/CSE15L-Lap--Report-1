@@ -138,4 +138,4 @@ Good job, we were able to:
 - [x] Learn about the help of markdowns
 
 
-[<img alt="MarkDown" width="100px" height="100px" src="https://ps.w.org/wp-githuber-md/assets/icon-256x256.png?rev=2194656" />](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+     [<img alt="MarkDown" width="100px" height="100px" src="https://ps.w.org/wp-githuber-md/assets/icon-256x256.png?rev=2194656" />](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
