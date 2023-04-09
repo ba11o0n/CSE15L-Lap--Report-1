@@ -16,22 +16,26 @@ We will check off each of these objective as we go!
 
    <img src="15p1_1.png" width="600" height="300"/>
    
+   
 2. Copy the account name that is listed uner the section *Additional Accounts* that begins with cs15l as the first five characters. Then, at the top of the page, a highlighted box in light yellow will tell you to reset your password using the [link](https://sdacs.ucsd.edu/~icc/password.php).  
  
    <img src="15p1_2_1.png" width="700" height="600"/>
+   
    
 3. There are two links but click on the link that is specifically listed under for "Student, AX, or Course-Specific Student Accounts". 
 
    <img src="15p1_3.png" width="600" height="300"/>
    
+   
 4. Scroll down and paste the account info that you have copied from step two before submitting. 
 
    <img src="15p1_4.png" width="600" height="500"/>
    
+   
 5. Change your password as instructed on the new page and verify with your email and follow password synchronization [steps](https://blink.ucsd.edu/technology/network/access/ad/post-change-instructions.html#Faculty,-Staff-&-Health-Using-M) towards the end. 
 
 
-## **Step 2: Using Visual Studio Code** [<img alt="Visual Studio Code" width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/download)
+## **Step 2: Using Visual Studio Code**
 
 1. If you do not have Visual Studio Code installed in your computer, follow the instructions to install using their [website](https://code.visualstudio.com/)
 
@@ -42,21 +46,25 @@ We will check off each of these objective as we go!
 
     <img src="openvsc.png" width="500" height="400"/>
 
+
 3. Open a new file giving it a name that you like, followed by .java at the end. Then go into the file you just created.
 
     <img src="vscopenfile.png" width="500" height="300"/>
     
     <img src="vscnewfile.png" width="650" height="250"/>
 
+
 4. On the left panel, click on the first logo on the right of the file's name you just created to create a new file. You can name it with the name you like but followed with .txt at the end as it should be a text file. Then save it to your computer. 
     
     <img src="vscmaketxt.png" width="300" height="350"/>
+
 
 5. Write some text in the file (eg. Hello, world!)
 
     ![Image](vscsometext.png)
 
-Good job, we were able to: 
+
+### Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
 
 
@@ -79,7 +87,7 @@ Good job, we were able to:
 
 6. You have successfully connected your terminal to a computer in the computer basement and any commands you run can be run on that computer. 
 
-Good job, we were able to: 
+### Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
 - [x] Remotely connecting to the server 
 
@@ -102,7 +110,7 @@ Try different combination and try to see the different outputs. You can try to s
 
 Before you try these commands, you can log out of the remote server in the terminal by doing Ctrl-D OR run exit as the command OR kill the terminal and open a new one in VSCode. 
 
-Good job, we were able to: 
+### Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
 - [x] Remotely connecting to the server 
 - [x] Try different commands and learn what they do 
@@ -135,7 +143,7 @@ Let's learn how to use Github so your own projects can be published, reflecting 
 *IMPORTANT*: If the page displays something similar to "404 File not found", do not panic. Go back and copy the link that was given to you and paste it into the search engine. Before you press enter, add in the name of your main file that you want to display followed by `.html` (eg. your main file that you want others to see is titled apple.md in your repository, so the url will be something like https://yourName.github.io/CSE15LReport1/
 mainFileName.html
 
-Good job, we were able to: 
+### Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
 - [x] Remotely connecting to the server 
 - [x] Try different commands and learn what they do 
@@ -146,7 +154,7 @@ Good job, we were able to:
 The `.md` that you have written at the end of your index file stands for "Markdown" that allows you to add formats to text and writings. There are [common markdown options](https://commonmark.org/help/). Use it to style your texts. 
 
 
-Good job, we were able to: 
+### Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
 - [x] Remotely connecting to the server 
 - [x] Try different commands and learn what they do 
