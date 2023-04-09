@@ -133,4 +133,4 @@ Good job, we were able to:
 - [x] Learn about the help of markdowns
 
 Inline-style: 
-![MD](https://www.freecodecamp.org/news/content/images/size/w2000/2022/08/Markdown-cheatsheet.png "MarkDown")
+![MD](https://cdn.iconscout.com/icon/free/png-256/markdown-3550792-2970377.png?f=webp&w=256 "MarkDown")
