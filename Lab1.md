@@ -13,19 +13,18 @@ We will check off each of these objective as we go!
 
 ## **Step 1: Creating Your CSE15L Account**
 1. Go into this [link](https://sdacs.ucsd.edu/~icc/index.php) and search up your existing account with your school email and PID. 
-   <img src="15p1_1.png" width="800" height="400" />
+   <img src="15p1_1.png" width="800" height="400"/>
    
 2. Copy the account name that is listed uner the section *Additional Accounts* that begins with cs15l as the first five characters. Then, at the top of the page, a highlighted box in light yellow will tell you to reset your password using the [link](https://sdacs.ucsd.edu/~icc/password.php).   
-   <img src="15p1_2_1.png" width="700" height="600" />
+   <img src="15p1_2_1.png" width="700" height="600"/>
    
 3. There are two links but click on the link that is specifically listed under for "Student, AX, or Course-Specific Student Accounts". 
-   <img src="15p1_3.png" width="800" height="400" />
+   <img src="15p1_3.png" width="800" height="400"/>
    
 4. Scroll down and paste the account info that you have copied from step two before submitting. 
-   ![Image](15p1_4.png)
-   <img src="15p1_4.png" width="600" height="500" />
+   <img src="15p1_4.png" width="600" height="500"/>
    
-5. Change your password as instructed on the new page and verify with your email and follow password synchronization steps towards the end. 
+5. Change your password as instructed on the new page and verify with your email and follow password synchronization [steps](https://blink.ucsd.edu/technology/network/access/ad/post-change-instructions.html#Faculty,-Staff-&-Health-Using-M) towards the end. 
 
 
 ## **Step 2: Using Visual Studio Code**
