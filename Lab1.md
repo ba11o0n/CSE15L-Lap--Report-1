@@ -6,7 +6,7 @@
    ![Image](15p1_1.png)
    
 2. Copy the account name that is listed uner the section *Additional Accounts* that begins with cs15l as the first five characters. Then, at the top of the page, a highlighted box in light yellow will tell you to reset your password using the [link](https://sdacs.ucsd.edu/~icc/password.php).   
-   ![Image](15p1_2.png)
+   ![Image](15p1_2_1.png)
    
 3. There are two links but click on the link that is specifically listed under for "Student, AX, or Course-Specific Student Accounts". 
    ![Image](15p1_3.png)
