@@ -133,4 +133,4 @@ Good job, we were able to:
 - [x] Learn about the help of markdowns
 
 Inline-style: 
-![MD](https://icons-for-free.com/download-icon-markdown-1329858347762931910_256.png "MarkDown")
+![MD](<img src="https://ps.w.org/wp-githuber-md/assets/icon-256x256.png?rev=2194656"  width="100" height="100"> "MarkDown")
