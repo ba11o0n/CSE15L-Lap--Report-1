@@ -45,7 +45,7 @@ We will check off each of these objective as we go!
 
 4. On the left panel, click on the first logo on the right of the file's name you just created to create a new file. You can name it with the name you like but followed with .txt at the end as it should be a text file. Then save it to your computer. 
     
-    <img src="vscmaketxt.png" width="400" height="450"/>
+    <img src="vscmaketxt.png" width="300" height="350"/>
 
 5. Write some text in the file (eg. Hello, world!)
 
@@ -115,7 +115,11 @@ Let's learn how to use Github so your own projects can be published, reflecting 
 
 2. Once created, find the + icon on the navigation tab at the top right and reate a new repository (a folder or directory). 
 
+    ![Image](ghrepo.png)
+
 3. Give the repository a name of `cse15l-lab-reports`, and scroll down to click on "create". 
+
+    ![Image](ghnameit.png)
 
 4. With the new screen of display, find "creating a new file" hyberlinked at the top section and click on it to create a new file named `index.md` and write some texts of your choice before you "commit new file" at the bottom when you scroll. NOTE: You just created a public Github repository (can be changed to private if you like) and the link can be shared. 
 
