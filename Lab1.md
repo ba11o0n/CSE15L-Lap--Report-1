@@ -124,10 +124,13 @@ Good job, we were able to:
 ## **Step 5: Make Your Texts Fancier, More Designs** 
 The `.md` that you have written at the end of your index file stands for "Markdown" that allows you to add formats to text and writings. There are [common markdown options](https://commonmark.org/help/). Use it to style your texts. 
 
-<mark>Good job</mark>, we were able to: 
+Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
 - [x] Remotely connecting to the server 
 - [x] Try different commands and learn what they do 
 - [x] Try different commands and learn what they do 
 - [x] Create a Github account and practice creating repositories 
 - [x] Learn about the help of markdowns
+
+Inline-style: 
+![MD](https://www.freecodecamp.org/news/content/images/size/w2000/2022/08/Markdown-cheatsheet.png "MarkDown")
