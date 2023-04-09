@@ -38,16 +38,19 @@ We will check off each of these objective as we go!
     <img src="openvsc.png" width="500" height="400"/>
 
 3. Open a new file giving it a name that you like, followed by .java at the end. Then go into the file you just created.
+
     <img src="vscopenfile.png" width="500" height="300"/>
 
-5. On the left panel, click on the first logo on the right of the file's name you just created to create a new file. You can name it with the name you like but followed with .txt at the end as it should be a text file. Then save it to your computer. 
+4. On the left panel, click on the first logo on the right of the file's name you just created to create a new file. You can name it with the name you like but followed with .txt at the end as it should be a text file. Then save it to your computer. 
+
     ![Image](vscnewfile.png)
     <img src="vscnewfile.png" width="600" height="300"/>
     
     ![Image](vscmaketxt.png)
     <img src="vscmaketxt.png" width="400" height="300"/>
 
-6. Write some text in the file (eg. Hello, world!)
+5. Write some text in the file (eg. Hello, world!)
+
     ![Image](vscsometext.png)
 
 Good job, we were able to: 
