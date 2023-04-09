@@ -13,15 +13,19 @@ We will check off each of these objective as we go!
 
 ## **Step 1: Creating Your CSE15L Account**
 1. Go into this [link](https://sdacs.ucsd.edu/~icc/index.php) and search up your existing account with your school email and PID. 
+
    <img src="15p1_1.png" width="600" height="300"/>
    
-2. Copy the account name that is listed uner the section *Additional Accounts* that begins with cs15l as the first five characters. Then, at the top of the page, a highlighted box in light yellow will tell you to reset your password using the [link](https://sdacs.ucsd.edu/~icc/password.php).   
+2. Copy the account name that is listed uner the section *Additional Accounts* that begins with cs15l as the first five characters. Then, at the top of the page, a highlighted box in light yellow will tell you to reset your password using the [link](https://sdacs.ucsd.edu/~icc/password.php).  
+ 
    <img src="15p1_2_1.png" width="700" height="600"/>
    
 3. There are two links but click on the link that is specifically listed under for "Student, AX, or Course-Specific Student Accounts". 
+
    <img src="15p1_3.png" width="600" height="300"/>
    
 4. Scroll down and paste the account info that you have copied from step two before submitting. 
+
    <img src="15p1_4.png" width="600" height="500"/>
    
 5. Change your password as instructed on the new page and verify with your email and follow password synchronization [steps](https://blink.ucsd.edu/technology/network/access/ad/post-change-instructions.html#Faculty,-Staff-&-Health-Using-M) towards the end. 
@@ -114,11 +118,10 @@ Let's learn how to use Github so your own projects can be published, reflecting 
 2. Once created, find the + icon on the navigation tab at the top right and reate a new repository (a folder or directory). 
 
     ![Image](ghrepo.png)
-    <img src="ghrepo.png" width="400" height="350"/>
+    <img src="ghrepo.png" width="600" height="300"/>
 
 3. Give the repository a name of `cse15l-lab-reports`, and scroll down to click on "create". 
 
-    ![Image](ghnameit.png)
     <img src="ghnameit.png" width="500" height="600"/>
 
 4. With the new screen of display, find "creating a new file" hyberlinked at the top section and click on it to create a new file named `index.md` and write some texts of your choice before you "commit new file" at the bottom when you scroll. NOTE: You just created a public Github repository (can be changed to private if you like) and the link can be shared. 
