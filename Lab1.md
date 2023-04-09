@@ -34,6 +34,7 @@ We will check off each of these objective as we go!
 
 
 2. After installation, open VSCode 
+
     <img src="openvsc.png" width="500" height="400"/>
 
 3. Open a new file giving it a name that you like, followed by .java at the end. Then go into the file you just created.
@@ -48,7 +49,6 @@ We will check off each of these objective as we go!
 
 6. Write some text in the file (eg. Hello, world!)
     ![Image](vscsometext.png)
-    <img src="vscsometext.png" width="500" height="300"/>
 
 Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
