@@ -57,7 +57,6 @@ Good job, we were able to:
 
 ## **Step 3: Remotely Connecting using VSCode**
 1. If you are using Mac, git is already installed in your computer. However, you will be required to [install](https://gitforwindows.org) git for windows. 
-    ![Image](...)
 
      [<img alt="Git" width="100px" height="100px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://gitforwindows.org)
 
@@ -72,7 +71,6 @@ Good job, we were able to:
 `Are you sure you want to continue connecting (yes/no/[fingerprint])?`
 
 5. Then type in the password that you changed into from step one. NOTE: You might notice the characters you type for your password is invisible, but that is because the password is being hidden! Do not panic and type in the correct password that you changed to and type slowly if needed to assure that it is correct. The output should be somewhat similar below after you enter in your password. Values of cluster status will differ due to different remote connections. 
-    ![Image](...) 
 
 6. You have successfully connected your terminal to a computer in the computer basement and any commands you run can be run on that computer. 
 
@@ -116,10 +114,12 @@ Let's learn how to use Github so your own projects can be published, reflecting 
 2. Once created, find the + icon on the navigation tab at the top right and reate a new repository (a folder or directory). 
 
     ![Image](ghrepo.png)
+    <img src="ghrepo.png" width="120" height="250"/>
 
 3. Give the repository a name of `cse15l-lab-reports`, and scroll down to click on "create". 
 
     ![Image](ghnameit.png)
+    <img src="ghnameit.png" width="400" height="600"/>
 
 4. With the new screen of display, find "creating a new file" hyberlinked at the top section and click on it to create a new file named `index.md` and write some texts of your choice before you "commit new file" at the bottom when you scroll. NOTE: You just created a public Github repository (can be changed to private if you like) and the link can be shared. 
 
