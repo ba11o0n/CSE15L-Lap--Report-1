@@ -34,16 +34,17 @@ We will check off each of these objective as we go!
 
 
 2. After installation, open VSCode 
-    ![Image](...) 
+    ![Image](openvsc.png) 
 
 3. Open a new file giving it a name that you like, followed by .java at the end. Then go into the file you just created.
-    ![Image](...)
+    ![Image](vscopenfile.png)
 
 5. On the left panel, click on the first logo on the right of the file's name you just created to create a new file. You can name it with the name you like but followed with .txt at the end as it should be a text file. Then save it to your computer. 
-    ![Image](...)
+    ![Image](vscnewfile.png)
+    ![Image](vscmaketxt.png)
 
 6. Write some text in the file (eg. Hello, world!)
-    ![Image](...)
+    ![Image](vscsometxt.png)
 
 Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
