@@ -114,12 +114,12 @@ Let's learn how to use Github so your own projects can be published, reflecting 
 2. Once created, find the + icon on the navigation tab at the top right and reate a new repository (a folder or directory). 
 
     ![Image](ghrepo.png)
-    <img src="ghrepo.png" width="120" height="250"/>
+    <img src="ghrepo.png" width="250" height="120"/>
 
 3. Give the repository a name of `cse15l-lab-reports`, and scroll down to click on "create". 
 
     ![Image](ghnameit.png)
-    <img src="ghnameit.png" width="400" height="600"/>
+    <img src="ghnameit.png" width="500" height="600"/>
 
 4. With the new screen of display, find "creating a new file" hyberlinked at the top section and click on it to create a new file named `index.md` and write some texts of your choice before you "commit new file" at the bottom when you scroll. NOTE: You just created a public Github repository (can be changed to private if you like) and the link can be shared. 
 
