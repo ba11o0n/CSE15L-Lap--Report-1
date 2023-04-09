@@ -144,7 +144,7 @@ Let's learn how to use Github so your own projects can be published, reflecting 
     <img src="gh404.png" width="400" height="400"/>
      
 *IMPORTANT*: 
-If the page displays something similar to "404 File not found", do not panic. Go back and copy the link that was given to you and paste it into the search engine. Before you press enter, add in the name of your main file that you want to display followed by `.html` (eg. your main file that you want others to see is titled apple.md in your repository, so the url will be something like https://yourName.github.io/CSE15LReport1/
+If the page displays something similar to "404 File not found" shown in the image above, do not panic. Go back and copy the link that was given to you and paste it into the search engine. Before you press enter, add in the name of your main file that you want to display followed by `.html` (eg. your main file that you want others to see is titled apple.md in your repository, so the url will be something like https://yourName.github.io/CSE15LReport1/
 mainFileName.html
 
 ### Good job, we were able to: 
