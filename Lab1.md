@@ -133,4 +133,6 @@ Good job, we were able to:
 - [x] Learn about the help of markdowns
 
 Inline-style: 
-![Markdown](<img src="https://ps.w.org/wp-githuber-md/assets/icon-256x256.png?rev=2194656"  width="100" height="100"> "MarkDown")
+![Markdown](https://ps.w.org/wp-githuber-md/assets/icon-256x256.png?rev=2194656 "MarkDown")
+
+<img src="https://ps.w.org/wp-githuber-md/assets/icon-256x256.png?rev=2194656" width="100" height="100" />
