@@ -30,6 +30,9 @@ We will check off each of these objective as we go!
 ## **Step 2: Using Visual Studio Code**
 1. If you do not have Visual Studio Code installed in your computer, follow the instructions to install using their [website](https://code.visualstudio.com/)
 
+[<img alt="Visual Studio Code" width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/download)
+
+
 2. After installation, open VSCode 
     ![Image](...) 
 
@@ -132,9 +135,5 @@ Good job, we were able to:
 - [x] Create a Github account and practice creating repositories 
 - [x] Learn about the help of markdowns
 
-Inline-style: 
-![Markdown](https://ps.w.org/wp-githuber-md/assets/icon-256x256.png?rev=2194656 "MarkDown")
-
-<img src="https://ps.w.org/wp-githuber-md/assets/icon-256x256.png?rev=2194656" width="100" height="100" />
 
 [<img alt="MarkDown" width="100px" height="100px" src="https://ps.w.org/wp-githuber-md/assets/icon-256x256.png?rev=2194656" />](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
