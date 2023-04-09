@@ -30,7 +30,7 @@ We will check off each of these objective as we go!
 ## **Step 2: Using Visual Studio Code**
 1. If you do not have Visual Studio Code installed in your computer, follow the instructions to install using their [website](https://code.visualstudio.com/)
 
-[<img alt="Visual Studio Code" width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/download)
+     [<img alt="Visual Studio Code" width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/download)
 
 
 2. After installation, open VSCode 
@@ -53,7 +53,7 @@ Good job, we were able to:
 1. If you are using Mac, git is already installed in your computer. However, you will be required to [install](https://gitforwindows.org) git for windows. 
     ![Image](...)
 
-[<img alt="Git" width="100px" height="100px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://gitforwindows.org)
+     [<img alt="Git" width="100px" height="100px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://gitforwindows.org)
 
 2. Open a terminal in VSCode (from the file created in step two) by doing Ctrl or Command + ', or Terminal --> New Terminal. In the terminal, write pwd as your first command line and press enter. 
 
@@ -136,6 +136,3 @@ Good job, we were able to:
 - [x] Try different commands and learn what they do 
 - [x] Create a Github account and practice creating repositories 
 - [x] Learn about the help of markdowns
-
-
-     [<img alt="MarkDown" width="100px" height="100px" src="https://ps.w.org/wp-githuber-md/assets/icon-256x256.png?rev=2194656" />](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
