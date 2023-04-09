@@ -65,7 +65,7 @@ There are several different commands that you can try to run in the terminal eit
 `7. cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 `8. cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
-*NOTE*: The "hello.txt" at the end in command seven and eight were listed as an example. For your own work, you should have it as your text file that you created from step two part five. 
+==*NOTE*==: The "hello.txt" at the end in command seven and eight were listed as an example. For your own work, you should have it as your text file that you created from step two part five. 
 
 Try different combination and try to see the different outputs. You can try to see other commands if interested through other documentations online.  
 
