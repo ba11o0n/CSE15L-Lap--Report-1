@@ -46,6 +46,8 @@ We will check off each of these objective as we go!
     <img src="vscnewfile.png" width="650" height="250"/>
     
     
+    
+    
     <img src="vscmaketxt.png" width="400" height="450"/>
 
 5. Write some text in the file (eg. Hello, world!)
