@@ -42,7 +42,7 @@ We will check off each of these objective as we go!
      [<img alt="Visual Studio Code" width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/download)
 
 
-2. After installation, open VSCode 
+2. After installation, open VSCode.
 
     <img src="openvsc.png" width="500" height="400"/>
 
@@ -59,7 +59,7 @@ We will check off each of these objective as we go!
     <img src="vscmaketxt.png" width="300" height="350"/>
 
 
-5. Write some text in the file (eg. Hello, world!)
+5. Write some text in the file (eg. Hello, world!).
 
     ![Image](vscsometext.png)
 
@@ -151,8 +151,7 @@ Let's learn how to use Github so your own projects can be published, reflecting 
     <img src="gh404.png" width="400" height="400"/>
      
 *IMPORTANT*: 
-If the page displays something similar to "404 File not found" shown in the image above, do not panic. Go back and copy the link that was given to you and paste it into the search engine. Before you press enter, add in the name of your main file that you want to display followed by `.html` (eg. your main file that you want others to see is titled apple.md in your repository, so the url will be something like `https://yourName.github.io/CSE15LReport1/
-mainFileName.html`
+If the page displays something similar to "404 File not found" shown in the image above, do not panic. Go back and copy the link that was given to you and paste it into the search engine. Before you press enter, add in the name of your main file that you want to display followed by `.html` (eg. your main file that you want others to see is titled apple.md in your repository, so the url will be something like `https://yourName.github.io/CSE15LReport1/mainFileName.html.
 
 ### Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
