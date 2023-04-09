@@ -30,7 +30,7 @@ We will check off each of these objective as we go!
 ## **Step 2: Using Visual Studio Code**
 1. If you do not have Visual Studio Code installed in your computer, follow the instructions to install using their [website](https://code.visualstudio.com/)
 
-[<img alt="Visual Studio Code" width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/download)
+[<img alt="Visual Studio Code" width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/download)
 
 
 2. After installation, open VSCode 
