@@ -61,10 +61,11 @@ There are several different commands that you can try to run in the terminal eit
 `3. ls`
 `4. ls -a`
 `5. ls -lat`
-`6. cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
-`7. cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+`6. ls <directory>`
+`7. cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
+`8. cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
-*NOTE*: The "hello.txt" at the end in command six and seven were listed as an example. For your own work, you should have it as your text file that you created from step two part five. 
+*NOTE*: The "hello.txt" at the end in command seven and eight were listed as an example. For your own work, you should have it as your text file that you created from step two part five. 
 
 Try different combination and try to see the different outputs. You can try to see other commands if interested through other documentations online.  
 
@@ -76,12 +77,12 @@ Before you try these commands, you can log out of the remote server in the termi
 
 Let's learn how to use Github so your own projects can be published, reflecting your skills and amazing work.
 
-Creating your Github Account: 
+### Creating your Github Account: 
 1. Follow the steps to create your account on [Github](https://www.github.com/)
 
 2. Once created, find the + icon on the navigation tab at the top right and reate a new repository (a folder or directory). 
 
-3. Give the repository a name of `cse15l-lab-reports`, and scroll down to click on create. 
+3. Give the repository a name of `cse15l-lab-reports`, and scroll down to click on "create". 
 
 4. With the new screen of display, find "creating a new file" hyberlinked at the top section and click on it to create a new file named `index.md` and write some texts of your choice before you "commit new file" at the bottom when you scroll. NOTE: You just created a public Github repository (can be changed to private if you like) and the link can be shared. 
 
@@ -90,3 +91,8 @@ Creating your Github Account:
 6. Under Branch section, change where you see "none" to "main" as the source for the Github Pages and save. 
 
 7. Your screen will load into a new display, so give it a few minutes or refresh your page. 
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
