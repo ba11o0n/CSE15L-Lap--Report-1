@@ -14,7 +14,7 @@ We will check off each of these objective as we go!
 ## **Step 1: Creating Your CSE15L Account**
 1. Go into this [link](https://sdacs.ucsd.edu/~icc/index.php) and search up your existing account with your school email and PID. 
    ![Image](15p1_1.png)
-   <img src="15p1_1.png" width="600" height="600" />
+   <img src="15p1_1.png" width="800" height="400" />
    
 2. Copy the account name that is listed uner the section *Additional Accounts* that begins with cs15l as the first five characters. Then, at the top of the page, a highlighted box in light yellow will tell you to reset your password using the [link](https://sdacs.ucsd.edu/~icc/password.php).   
    ![Image](15p1_2_1.png)
