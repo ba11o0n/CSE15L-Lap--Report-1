@@ -2,7 +2,9 @@
 Before learning the different tools and techniques as a programmer for this course, let's learn how to set up your accounts and installing the needed source-code editor. 
 
 By the end of this tutorial, you should be able to: 
-    - [ ] Hello
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
      
 
 ## **Step 1: Creating Your CSE15L Account**
