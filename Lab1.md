@@ -37,13 +37,20 @@
 1. If you are using Mac, git is already installed in your computer. However, you will be required to [install](https://gitforwindows.org) git for windows. 
     ![Image](...)
 
-2. Open a terminal in VSCode (from the file created in step two) by doing Ctrl or Command + ', or Terminal --> New Terminal. In the terminal, write the command shown below and replace == with the letters that were assigned to you for your course-specific account from step one part two. NOTE: The *$* in the command signifies the starting point for you to type, so *do not* include it when inputting into terminal. 
-    ![Image](...)
+2. Open a terminal in VSCode (from the file created in step two) by doing Ctrl or Command + ', or Terminal --> New Terminal. In the terminal, write pwd as your first command line and press enter. 
 
-3. A message will pop up as you are connecting to the server for the first time. Type in yes and press enter. Then type in the password that you changed into from step one. NOTE: You might notice the characters you type for your password is invisible, but that is because the password is being hidden! Do not panic and type in the correct password that you changed to and type slowly if needed to assure that it is correct. The output should be somewhat similar below after you enter in your password. Values of cluster status will differ due to different remote connections. 
+3. Type in the command shown below in your terminal and replace == with the letters that were assigned to you for your course-specific account from step one part two. NOTE: The *$* in the command signifies the starting point for you to type, so *do not* include it when inputting into terminal. 
+
+`ssh cs15lsp23==@ieng6.ucsd.edu`
+
+4. A message will pop up as you are connecting to the server for the first time. Type in yes and press enter. 
+
+`Are you sure you want to continue connecting (yes/no/[fingerprint])?`
+
+5. Then type in the password that you changed into from step one. NOTE: You might notice the characters you type for your password is invisible, but that is because the password is being hidden! Do not panic and type in the correct password that you changed to and type slowly if needed to assure that it is correct. The output should be somewhat similar below after you enter in your password. Values of cluster status will differ due to different remote connections. 
     ![Image](...) 
 
-4. You have successfully connected your terminal to a computer in the computer basement and any commands you run can be run on that computer. 
+6. You have successfully connected your terminal to a computer in the computer basement and any commands you run can be run on that computer. 
      
 
 ## **Step 4: Running Commands**
@@ -57,9 +64,11 @@ There are several different commands that you can try to run in the terminal eit
 `6. cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 `7. cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
+*NOTE*: The "hello.txt" at the end in command six and seven were listed as an example. For your own work, you should have it as your text file that you created from step two part five. 
+
 Try different combination and try to see the different outputs. You can try to see other commands if interested through other documentations online.  
 
-Note: Before you try these commands, you can log out of the remote server in the terminal by doing Ctrl-D OR run exit as the command OR kill the terminal and open a new one in VSCode. 
+Before you try these commands, you can log out of the remote server in the terminal by doing Ctrl-D OR run exit as the command OR kill the terminal and open a new one in VSCode. 
 
 
 ## **Step 5: Github, Github pages, and git** 
@@ -67,4 +76,17 @@ Note: Before you try these commands, you can log out of the remote server in the
 
 Let's learn how to use Github so your own projects can be published, reflecting your skills and amazing work.
 
+Creating your Github Account: 
+1. Follow the steps to create your account on [Github](https://www.github.com/)
 
+2. Once created, find the + icon on the navigation tab at the top right and reate a new repository (a folder or directory). 
+
+3. Give the repository a name of `cse15l-lab-reports`, and scroll down to click on create. 
+
+4. With the new screen of display, find "creating a new file" hyberlinked at the top section and click on it to create a new file named `index.md` and write some texts of your choice before you "commit new file" at the bottom when you scroll. NOTE: You just created a public Github repository (can be changed to private if you like) and the link can be shared. 
+
+5. Find "Settings" at the top of te repository and find "Pages" on the left side of the panel. 
+
+6. Under Branch section, change where you see "none" to "main" as the source for the Github Pages and save. 
+
+7. Your screen will load into a new display, so give it a few minutes or refresh your page. 
