@@ -1,5 +1,9 @@
 # Lab Report 1 
-     Before learning the different tools and techniques as a programmer for this course, let's learn how to set up your accounts and installing the needed source-code editor. 
+Before learning the different tools and techniques as a programmer for this course, let's learn how to set up your accounts and installing the needed source-code editor. 
+
+By the end of this tutorial, you should be able to: 
+    - [ ] Hello
+     
 
 ## **Step 1: Creating Your CSE15L Account**
 1. Go into this [link](https://sdacs.ucsd.edu/~icc/index.php) and search up your existing account with your school email and PID. 
@@ -65,7 +69,7 @@ There are several different commands that you can try to run in the terminal eit
 `7. cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 `8. cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
-==*NOTE*==: The "hello.txt" at the end in command seven and eight were listed as an example. For your own work, you should have it as your text file that you created from step two part five. 
+*NOTE*: The "hello.txt" at the end in command seven and eight were listed as an example. For your own work, you should have it as your text file that you created from step two part five. 
 
 Try different combination and try to see the different outputs. You can try to see other commands if interested through other documentations online.  
 
@@ -90,9 +94,7 @@ Let's learn how to use Github so your own projects can be published, reflecting 
 
 6. Under Branch section, change where you see "none" to "main" as the source for the Github Pages and save. 
 
-7. Your screen will load into a new display, so give it a few minutes or refresh your page. 
+7. Your screen will load into a new display, so give it a few minutes or refresh your page. A message in a box will pop up saying "Your site is live at <url>". Click on the link and you would see the result of your work in the file in a new page. 
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+### Make Your Texts Fancier, More Designs 
+The `.md` that you have written at the end of your index file stands for "Markdown" that allows you to add formats to text and writings. There are [common markdown options](https://commonmark.org/help/). Use it to style your texts. 
