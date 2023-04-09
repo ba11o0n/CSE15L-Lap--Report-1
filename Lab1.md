@@ -117,7 +117,7 @@ Let's learn how to use Github so your own projects can be published, reflecting 
 
 2. Once created, find the + icon on the navigation tab at the top right and reate a new repository (a folder or directory). 
 
-    <img src="ghrepo.png" width="600" height="300"/>
+    <img src="ghrepo.png" width="800" height="300"/>
 
 3. Give the repository a name of `cse15l-lab-reports`, and scroll down to click on "create". 
 
