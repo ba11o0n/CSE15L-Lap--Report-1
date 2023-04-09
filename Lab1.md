@@ -96,12 +96,19 @@ We will check off each of these objective as we go!
 There are several different commands that you can try to run in the terminal either on your computer or using the remote computer with ssh. 
 
 `1. cd`
+
 `2. cd ~` 
+
 `3. ls`
+
 `4. ls -a`
+
 `5. ls -lat`
+
 `6. ls <directory>`
+
 `7. cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
+
 `8. cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
 *NOTE*: The "hello.txt" at the end in command seven and eight were listed as an example. For your own work, you should have it as your text file that you created from step two part five. 
