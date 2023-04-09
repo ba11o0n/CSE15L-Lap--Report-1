@@ -31,7 +31,8 @@ We will check off each of these objective as we go!
 5. Change your password as instructed on the new page and verify with your email and follow password synchronization [steps](https://blink.ucsd.edu/technology/network/access/ad/post-change-instructions.html#Faculty,-Staff-&-Health-Using-M) towards the end. 
 
 
-## **Step 2: Using Visual Studio Code**
+## **Step 2: Using Visual Studio Code** [<img alt="Visual Studio Code" width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/download)
+
 1. If you do not have Visual Studio Code installed in your computer, follow the instructions to install using their [website](https://code.visualstudio.com/)
 
      [<img alt="Visual Studio Code" width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/download)
