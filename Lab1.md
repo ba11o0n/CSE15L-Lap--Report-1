@@ -19,7 +19,7 @@ We will check off each of these objective as we go!
    <img src="15p1_2_1.png" width="700" height="600"/>
    
 3. There are two links but click on the link that is specifically listed under for "Student, AX, or Course-Specific Student Accounts". 
-   <img src="15p1_3.png" width="800" height="400"/>
+   <img src="15p1_3.png" width="700" height="500"/>
    
 4. Scroll down and paste the account info that you have copied from step two before submitting. 
    <img src="15p1_4.png" width="600" height="500"/>
