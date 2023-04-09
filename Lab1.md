@@ -131,6 +131,8 @@ Let's learn how to use Github so your own projects can be published, reflecting 
 
 7. Your screen will load into a new display, so give it a few minutes or refresh your page. A message in a box will pop up saying "Your site is live at <url>". Click on the link and you would see the result of your work in the file in a new page. 
 
+IMPORTANT: If the page displays something similar to "404 File not found", do not panic. Go back and copy the link that wad given to you and paste it into the search engine. Before you press enter, add in the name of your main file that you want to display followed by `.html` (eg. your main file that you want others to see is titled apple.md in your repository, so the url will be https://
+
 Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
 - [x] Remotely connecting to the server 
@@ -140,6 +142,7 @@ Good job, we were able to:
 
 ## **Step 5: Make Your Texts Fancier, More Designs** 
 The `.md` that you have written at the end of your index file stands for "Markdown" that allows you to add formats to text and writings. There are [common markdown options](https://commonmark.org/help/). Use it to style your texts. 
+
 
 Good job, we were able to: 
 - [x] Download and practice using the source-code editor VSCode 
